@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="8" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Sanity_Suite" duration-ms="5633" started-at="2020-06-11T17:00:29Z" finished-at="2020-06-11T17:00:35Z">
+    <groups>
+    </groups>
+    <test name="Home_Test" duration-ms="5595" started-at="2020-06-11T17:00:29Z" finished-at="2020-06-11T17:00:35Z">
+      <class name="Demo_jenkins.Home_test">
+        <test-method status="PASS" signature="Test_Home1()[pri:0, instance:Demo_jenkins.Home_test@5762806e]" name="Test_Home1" duration-ms="4652" started-at="2020-06-11T17:00:29Z" finished-at="2020-06-11T17:00:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Home1 -->
+        <test-method status="PASS" signature="Test_Home2()[pri:0, instance:Demo_jenkins.Home_test@5762806e]" name="Test_Home2" duration-ms="875" started-at="2020-06-11T17:00:34Z" finished-at="2020-06-11T17:00:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Home2 -->
+        <test-method status="PASS" signature="Test_Home3()[pri:0, instance:Demo_jenkins.Home_test@5762806e]" name="Test_Home3" duration-ms="4" started-at="2020-06-11T17:00:35Z" finished-at="2020-06-11T17:00:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Home3 -->
+        <test-method status="PASS" signature="Test_Home4()[pri:0, instance:Demo_jenkins.Home_test@5762806e]" name="Test_Home4" duration-ms="7" started-at="2020-06-11T17:00:35Z" finished-at="2020-06-11T17:00:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Home4 -->
+      </class> <!-- Demo_jenkins.Home_test -->
+    </test> <!-- Home_Test -->
+    <test name="Login_Test" duration-ms="5" started-at="2020-06-11T17:00:35Z" finished-at="2020-06-11T17:00:35Z">
+      <class name="Demo_jenkins.Home_test">
+        <test-method status="PASS" signature="launch()[pri:0, instance:Demo_jenkins.Home_test@5762806e]" name="launch" is-config="true" duration-ms="6043" started-at="2020-06-11T17:00:23Z" finished-at="2020-06-11T17:00:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- Demo_jenkins.Home_test -->
+      <class name="Demo_jenkins.login_test">
+        <test-method status="PASS" signature="Test_Login2()[pri:0, instance:Demo_jenkins.login_test@5ad851c9]" name="Test_Login2" duration-ms="1" started-at="2020-06-11T17:00:35Z" finished-at="2020-06-11T17:00:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Login2 -->
+      </class> <!-- Demo_jenkins.login_test -->
+    </test> <!-- Login_Test -->
+  </suite> <!-- Sanity_Suite -->
+</testng-results>
